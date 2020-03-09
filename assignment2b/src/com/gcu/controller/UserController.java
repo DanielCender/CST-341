@@ -7,8 +7,6 @@ import javax.validation.Valid;
 import java.util.ArrayList;
 
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
-import org.springframework.ui.ModelMap;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -37,9 +35,9 @@ public class UserController {
 	
 	private List<User> getUsers(User u) {
 		List<User> users = new ArrayList<User>();
-		users.add(new User("Brian", "Stetson", 0));
-		users.add(new User("Norma", "Rivers", 0));
-		users.add(new User("Jack", "Link", 0));
+		users.add(new User("Brian", "Stetson", 1));
+		users.add(new User("Norma", "Rivers", 1));
+		users.add(new User("Jack", "Link", 1));
 		users.add(u); // Add recently added user
 		return users;
 	}

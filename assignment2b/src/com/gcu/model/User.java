@@ -14,7 +14,7 @@ public class User {
 	public User(
 			@NotNull(message = "First name cannot be null") @Size(min = 2, max = 50, message = "First name must be between 2 and 50 chars") String firstName,
 			@NotNull(message = "Last name cannot be null") @Size(min = 2, max = 50, message = "Last name must be between 2 and 50 chars") String lastName,
-			@NotNull(message = "Gender cannot be null") @Min(value = 1, message = "Last name must be more than 1 character") @Max(value = 50, message = "Last name must be less than 50 characters") Integer gender) {
+			@NotNull(message = "Gender cannot be null") Integer gender) {
 		super();
 		this.firstName = firstName;
 		this.lastName = lastName;
@@ -28,8 +28,6 @@ public class User {
 	private String lastName;
 	
 	@NotNull(message = "Gender cannot be null")
-	@Min(value = 1, message="Last name must be more than 1 character")
-	@Max(value = 50, message="Last name must be less than 50 characters")
 	private Integer gender;
 	
 	public User() {}
