@@ -1,11 +1,8 @@
 INDEX VERSION 1.4+/Users/danielcender/Documents/GCU/2020/CST-341/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-333451094.index
-3751773637.index
-235091132.index
-2194392386.index
-422115859.index
+1808023958.index
 3394386.index
-2908045582.index
-839231952.index
+422115859.index
 2149690281.index
-1536974509.index
+2194392386.index
+839231952.index
+2236436250.index

@@ -21,11 +21,11 @@ import com.gcu.model.User;
 @RequestMapping("/user")
 public class UserController {
 	
-	OrdersBusinessInterface service;
+	OrdersBusinessInterface ordersService;
 	
 	@Autowired
-	public void setOrdersInterface(OrdersBusinessInterface i) {
-		service = i;
+	public void setOrdersService(OrdersBusinessInterface i) {
+		ordersService = i;
 	}
 	
 	@RequestMapping(path = "/add", method = RequestMethod.GET) 
@@ -35,6 +35,7 @@ public class UserController {
 	
 	@RequestMapping(path="/adduser", method = RequestMethod.POST)
 	public ModelAndView addUser(@ModelAttribute("user") @Valid User user, BindingResult result) {
+		ordersService.test();
 		if(result.hasErrors()) {
 			return new ModelAndView("addUser", "user", user);
 		} else {

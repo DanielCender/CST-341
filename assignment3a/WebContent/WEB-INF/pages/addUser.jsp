@@ -3,7 +3,7 @@
 <%@taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 
 <h3>User Sign Up</h3>
- <form:form method = "POST" action = "/assignment2b/user/adduser" modelAttribute="user">
+ <form:form method = "POST" action = "/assignment3a/user/adduser" modelAttribute="user">
    <form:errors path="*"/>
          <table>
             <tr>

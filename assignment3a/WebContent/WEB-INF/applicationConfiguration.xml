@@ -22,9 +22,8 @@
 		</property>
 	</bean>
 	
-	<bean id="ordersService" class="com.gcu.business.OrdersBusinessService"/>
-	<bean id="userController" class="com.gcu.controller.UserController">
-		<property name="ordersService" ref="ordersService"/>
+	<bean id="OrdersBusinessService" class="com.gcu.business.OrdersBusinessService"/>
+	<bean id="UserController" class="com.gcu.controller.UserController">
+		<property name="OrdersBusinessInterface" ref="OrdersBusinessService"/>
 	</bean>
-   
  </beans>
