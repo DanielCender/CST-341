@@ -27,4 +27,19 @@
 	<listener>
 	   <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
 	</listener>
+	
+	<!-- Jersey Servlet -->
+<servlet>
+<servlet-name>Jersey Web Services</servlet-name>
+<servlet-class>org.glassfish.jersey.servlet.ServletContainer</servlet-class>
+<init-param>
+<param-name>jersey.config.server.provider.packages</param-name>
+<param-value>com.gcu.services</param-value>
+</init-param>
+</servlet>
+<servlet-mapping>
+<servlet-name>Jersey Web Services</servlet-name>
+<url-pattern>/rest/*</url-pattern>
+</servlet-mapping>
+	
 </web-app>

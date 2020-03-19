@@ -29,7 +29,6 @@ INDEX VERSION 1.130+/Users/danielcender/Documents/GCU/2020/CST-341/.metadata/.pl
 1322283416.index
 3034058314.index
 1026401646.index
-3394386.index
 3262284285.index
 1081459361.index
 3723430347.index
@@ -124,7 +123,9 @@ INDEX VERSION 1.130+/Users/danielcender/Documents/GCU/2020/CST-341/.metadata/.pl
 970718582.index
 2847354745.index
 2299778221.index
+1844904071.index
 4128914237.index
+3698203571.index
 1673939581.index
 2140141355.index
 839231952.index
