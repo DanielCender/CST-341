@@ -22,7 +22,7 @@
 		</property>
 	</bean>
 	
-	<bean id="OrdersBusinessService" class="com.gcu.business.OrdersBusinessService"/>
+	<bean id="OrdersBusinessService" class="com.gcu.business.OrdersBusinessService" init-method="init" destroy-method="destroy"/>
 	<bean id="UserController" class="com.gcu.controller.UserController">
 		<property name="OrdersBusinessInterface" ref="OrdersBusinessService"/>
 	</bean>

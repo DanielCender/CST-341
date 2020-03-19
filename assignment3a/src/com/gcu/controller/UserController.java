@@ -17,14 +17,13 @@ import org.springframework.web.servlet.ModelAndView;
 import com.gcu.business.OrdersBusinessInterface;
 import com.gcu.model.User;
 
-@Controller
 @RequestMapping("/user")
 public class UserController {
 	
 	OrdersBusinessInterface ordersService;
 	
 	@Autowired
-	public void setOrdersService(OrdersBusinessInterface i) {
+	public void setOrdersBusinessInterface(OrdersBusinessInterface i) {
 		ordersService = i;
 	}
 	
