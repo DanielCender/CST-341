@@ -1,9 +1,12 @@
 package com.gcu;
 
+import javax.sql.DataSource;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
 import org.springframework.context.annotation.ScopedProxyMode;
+import org.springframework.jdbc.datasource.DriverManagerDataSource;
 
 import com.gcu.business.OrdersBusinessInterface;
 import com.gcu.business.OrdersBusinessService;
@@ -28,6 +31,17 @@ class ApplicationConfiguration {
 	@Bean(name="Service")
 	public DataAccessInterface<Order> getDataAccessInterface() {
 		return new OrdersDataService();
+	}
+	
+	@Bean(name="jdbcTemplate")
+	@Scope(value="session", proxyMode=ScopedProxyMode.TARGET_CLASS)
+	public DriverManagerDataSource getDataSource(DataSource dataSource) {
+		DriverManagerDataSource ds = new DriverManagerDataSource();
+		ds.setDriverClassName("org.apache.derby.jdbc.EmbeddedDriver");
+		ds.setUrl("jdbc:derby:/Users/danielcender/MyDB");
+		ds.setUsername("user");
+		ds.setPassword("derby");
+		return ds;
 	}
 	
 }

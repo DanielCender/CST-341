@@ -6,12 +6,17 @@ public class Order {
 	private Float price;
 	private int quantity;
 	
+	
 	public Order(String orderNo, String productName, Float price) {
 		this.orderNo = orderNo;
 		this.productName = productName;
 		this.price = price;
 	}
 	
+	public Order() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public String getOrderNo() {
 		return orderNo;
 	}
