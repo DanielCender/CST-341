@@ -1,11 +1,11 @@
 package com.gcu.data;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+//import java.sql.Connection;
+//import java.sql.DriverManager;
+//import java.sql.PreparedStatement;
+//import java.sql.ResultSet;
+//import java.sql.SQLException;
+//import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -27,7 +27,6 @@ public class OrdersDataService implements DataAccessInterface<Order> {
 	@Autowired
 	public void setDataSource(DataSource dataSource) {
 		this.jdbcTemplate = new JdbcTemplate(dataSource);
-		System.out.println("Hello there: " + this.jdbcTemplate.toString());
 	}
 
 	// public OrdersDataService() {
