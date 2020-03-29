@@ -2,3 +2,5 @@
 /.recommenders/
 /build/
 *.zip
+
+*/Maven Dependencies/*
