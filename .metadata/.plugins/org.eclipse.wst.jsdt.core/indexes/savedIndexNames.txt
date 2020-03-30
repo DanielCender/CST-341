@@ -2,6 +2,8 @@ INDEX VERSION 1.4+/Users/danielcender/Documents/GCU/2020/CST-341/.metadata/.plug
 3586295666.index
 3394386.index
 839231952.index
+1808023958.index
+2903105927.index
 2730866660.index
 422115859.index
 2194392386.index
