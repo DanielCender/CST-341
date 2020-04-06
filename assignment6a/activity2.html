@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CST-341 jQuery In-Class Activity 2</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <style>
+      .table {
+        width: 50%;
+        border: solid 1px black;
+      }
+    </style>
+  </head>
+  <body>
+    <table id="users" class="table">
+      <thead>
+        <th style="width: 33%;">First Name</th>
+        <th style="width: 33%;">Last Name</th>
+        <th style="width: 33%;">Age</th>
+      </thead>
+      <tbody>
+        <td id="fn">?</td>
+        <td id="ln">?</td>
+        <td id="age">?</td>
+      </tbody>
+    </table>
+  </body>
+  <script>
+    var User = {
+      firstName: 'Daniel',
+      lastName: 'Cender',
+      age: 22
+    };
+
+    var displayUser = function() {
+      $('#fn').html(User.firstName);
+      $('#users')
+        .find('#ln')
+        .html(User.lastName);
+      $('#users')
+        .find('#age')
+        .html(User.age);
+    };
+
+    $(document).ready(displayUser);
+  </script>
+</html>
