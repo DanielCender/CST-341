@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Basic JQuery Example</title>
+    <meta lang="en" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+    <style>
+      html {
+        font-family: 'Arial';
+        font-size: 16px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h2>COVID-19 Quarantine Shopping List</h2>
+    <div id="accordion">
+      <h3>Proteins</h3>
+      <div>
+        <ul>
+          <li>18 Eggs</li>
+          <li>Dried Almonds</li>
+          <li>Breakfast Sausage</li>
+          <li>Spam</li>
+        </ul>
+      </div>
+      <h3>Beverages</h3>
+      <div>
+        <ul>
+          <li>Unsweetened Almond Milk</li>
+        </ul>
+      </div>
+      <h3>Kitchen Supplies</h3>
+      <div>
+        <ul>
+          <li>Brita Water Filter</li>
+        </ul>
+      </div>
+      <h3>Produce</h3>
+      <div>
+        <ul>
+          <li>Celery Stalks</li>
+          <li>Whole Carrots</li>
+          <li>Sack of Potatoes</li>
+        </ul>
+      </div>
+      <h3>Dried Goods</h3>
+      <div>
+        <ul>
+          <li>Brown Rice</li>
+          <li>Penne Pasta</li>
+          <li>Black Beans</li>
+        </ul>
+      </div>
+    </div>
+  </body>
+
+  <script>
+    $(function() {
+      $('#accordion').accordion({ active: undefined, collapsible: true, height: 'content' });
+    });
+  </script>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CST-341 jQuery In-Class Activity 1</title>
+    <meta lang="en" />
+    <meta charset="utf-8" />
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <style>
+      html {
+        font-family: 'Arial';
+        font-size: 16px;
+      }
+    </style>
+  </head>
+  <body></body>
+
+  <script>
+    var sayHello = function() {
+      document.write('Welcome to jQuery<br/>');
+    };
+    var sayName = function() {
+      document.write('Daniel Cender<br/>');
+    };
+
+    $(document).ready(sayHello);
+
+    $(document).ready(function() {
+      document.writeln('My first jQuery code.<br/>');
+    });
+
+    $(document).ready(sayName);
+  </script>
+</html>

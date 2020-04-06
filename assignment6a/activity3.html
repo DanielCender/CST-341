@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CST-341 jQuery In-Class Activity 2</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <style>
+      .table {
+        width: 50%;
+        border: solid 1px black;
+      }
+    </style>
+  </head>
+
+  <body>
+    <table id="users" class="table">
+      <thead>
+        <th style="width: 33%;">First Name</th>
+        <th style="width: 33%;">Last Name</th>
+        <th style="width: 33%;">Age</th>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </body>
+  <script>
+    var User = function(fn, ln, age) {
+      return { firstName: fn, lastName: ln, age };
+    };
+
+    var users = [];
+
+    users.push(new User('Daniel', 'Cender', 22));
+
+    var displayUser = function() {
+      var x = 0;
+      var y = 0;
+      var table = document.getElementById('users');
+      for (var user of users) {
+        var row = table.insertRow(-1);
+        row.setAttribute('align', 'center');
+        var cell1 = row.insertCell();
+        var cell2 = row.insertCell();
+        var cell3 = row.insertCell();
+        row.id = x;
+        cell1.id = x + '_' + y++;
+        cell2.id = x + '_' + y++;
+        cell3.id = x + '_' + y++;
+        ++x;
+        y = 0;
+      }
+      x = 0;
+      y = 0;
+      for (var user of users) {
+        $('#' + x + '_' + y++).html(user.firstName);
+        $('#' + x + '_' + y++).html(user.lastName);
+        $('#' + x + '_' + y++).html(user.age);
+        ++x;
+        y = 0;
+      }
+    };
+
+    $(document).ready(displayUser);
+  </script>
+</html>

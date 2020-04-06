@@ -149,3 +149,1102 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
 	... 8 common frames omitted
 2020-03-25 10:09:45,757 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-30 18:51:28,950 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-30 18:51:41,194 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 18:51:41,199 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-03-30 18:51:41,206 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 18:51:41,210 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-03-30 18:51:47,549 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 18:51:47,564 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-30 18:51:47,594 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-30 18:51:47,595 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment5/src/test/resources
+2020-04-01 08:48:52,215 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 08:48:52,218 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-01 08:48:52,220 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 08:48:52,222 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-01 08:48:52,243 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 08:48:53,017 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-01 08:48:53,021 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-01 08:48:53,022 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment5/src/test/resources
+2020-04-04 20:05:37,253 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-04-04 20:05:49,443 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 20:05:49,446 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-04 20:05:49,448 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 20:05:49,449 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-04 20:05:52,176 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 20:05:52,186 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-04 20:05:52,204 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 20:05:52,205 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment5/src/test/resources
+2020-04-04 22:22:10,303 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: assignment5:assignment5:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/pom.xml.
+2020-04-04 22:22:12,041 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /assignment6/src
+2020-04-04 22:22:12,041 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /assignment6/src overlaps with sources folder /assignment6/src
+2020-04-04 22:22:12,066 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /assignment6/src/test/java because it overlaps with /assignment6/src
+2020-04-04 22:22:14,467 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:22:14,485 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-04 22:22:14,490 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:22:14,491 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 22:22:14,507 [Worker-50] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-04 22:22:14,883 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: assignment5:assignment5:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/pom.xml.
+2020-04-04 22:22:15,736 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /assignment6/src
+2020-04-04 22:22:15,736 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /assignment6/src overlaps with sources folder /assignment6/src
+2020-04-04 22:22:15,737 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /assignment6/src/test/java because it overlaps with /assignment6/src
+2020-04-04 22:22:16,351 [Worker-50] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for assignment6
+2020-04-04 22:22:16,386 [Worker-50] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-04 22:22:17,094 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:22:17,095 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-04 22:22:17,101 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:22:17,102 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 22:22:17,103 [Worker-60] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-04 22:22:17,104 [Worker-60] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-04 22:22:17,129 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:22:37,099 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:22:37,104 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-04 22:22:37,105 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:22:37,106 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 22:32:23,997 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.8.9
+2020-04-04 22:32:24,001 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml:classmate:1.3.3
+2020-04-04 22:32:24,004 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.8.0
+2020-04-04 22:32:24,007 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-dbcp2:2.1.1
+2020-04-04 22:32:24,010 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-digester:commons-digester:2.0
+2020-04-04 22:32:24,014 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2020-04-04 22:32:24,017 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-pool2:2.4.2
+2020-04-04 22:32:24,021 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-validator:5.4.1.Final
+2020-04-04 22:32:24,024 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.9.1
+2020-04-04 22:32:24,028 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.9.1
+2020-04-04 22:32:24,033 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.9.1
+2020-04-04 22:32:24,051 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.3.1.Final
+2020-04-04 22:32:24,058 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jcl-over-slf4j:1.7.6
+2020-04-04 22:32:24,063 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:jstl:1.2
+2020-04-04 22:32:24,067 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:4.0.1
+2020-04-04 22:32:24,070 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.6
+2020-04-04 22:32:24,074 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.2.3.RELEASE
+2020-04-04 22:32:24,077 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:4.3.9.RELEASE
+2020-04-04 22:32:24,080 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.2.3.RELEASE
+2020-04-04 22:32:24,083 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.2.3.RELEASE
+2020-04-04 22:32:24,093 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.2.3.RELEASE
+2020-04-04 22:32:24,096 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.2.3.RELEASE
+2020-04-04 22:32:24,100 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for aopalliance:aopalliance:1.0
+2020-04-04 22:32:24,106 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.2.3.RELEASE
+2020-04-04 22:32:24,110 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:4.3.9.RELEASE
+2020-04-04 22:32:24,114 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:4.3.9.RELEASE
+2020-04-04 22:32:24,117 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.2.3.RELEASE
+2020-04-04 22:32:24,122 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.2.3.RELEASE
+2020-04-04 22:32:24,126 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-api:3.0.8
+2020-04-04 22:32:24,129 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core:1.2
+2020-04-04 22:32:24,132 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.qdox:qdox:1.10.1
+2020-04-04 22:32:24,136 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.velocity:velocity:1.6.3
+2020-04-04 22:32:24,139 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.1
+2020-04-04 22:32:24,142 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.4
+2020-04-04 22:32:24,145 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for oro:oro:2.0.8
+2020-04-04 22:32:24,156 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core-runtime:1.2
+2020-04-04 22:32:24,161 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-jsp:1.2
+2020-04-04 22:32:24,164 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-core:3.0.8
+2020-04-04 22:32:24,167 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-jsp:3.0.8
+2020-04-04 22:32:24,171 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-api:1.0.7
+2020-04-04 22:32:24,176 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-jsp:1.0.7
+2020-04-04 22:32:24,179 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-servlet:1.0.7
+2020-04-04 22:32:24,182 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-servlet:3.0.8
+2020-04-04 22:32:24,185 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-template:3.0.8
+2020-04-04 22:32:24,188 [Worker-59] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:2.0.1.Final
+2020-04-04 22:32:24,520 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:32:24,522 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-04 22:32:24,523 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:32:24,523 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 22:32:28,527 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-04-04 22:32:39,481 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-04 22:32:39,483 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-04-04 22:33:14,646 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-04 22:33:14,652 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-04-04 22:33:35,725 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:33:35,727 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-04 22:33:35,728 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:33:35,755 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 22:33:37,121 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:33:37,126 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-04 22:33:37,127 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:33:37,127 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 22:34:13,596 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: assignment6:assignment6:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/pom.xml.
+2020-04-04 22:34:14,180 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:34:14,181 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-04 22:34:14,182 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:34:14,183 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 22:34:14,183 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-04 22:34:14,183 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-04 22:34:14,189 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:34:20,202 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-04 22:34:20,237 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-04 22:34:20,238 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-04-04 22:34:34,606 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:34:34,609 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-04 22:34:34,610 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:34:34,611 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 22:35:43,399 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:35:43,402 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-04 22:35:43,403 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:35:43,404 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 22:35:47,137 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-04-04 22:36:21,822 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-04 22:36:21,822 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-04-04 22:36:35,313 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:36:35,314 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-04 22:36:35,315 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:36:35,316 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 22:36:36,463 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:36:36,464 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-04 22:36:36,465 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 22:36:36,465 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:02:22,261 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:02:22,267 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-04 23:02:22,268 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:02:22,269 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:03:17,708 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-04 23:03:17,731 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-04 23:03:17,731 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-04-04 23:04:18,302 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:04:18,306 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-04 23:04:18,307 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:04:18,308 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:04:45,719 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-04 23:04:45,719 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-04-04 23:04:47,534 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:04:47,537 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-04 23:04:47,539 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:04:47,540 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:04:47,540 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-04 23:04:47,540 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-04 23:04:47,548 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:04:55,435 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-04 23:04:55,435 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-04-04 23:05:00,953 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:05:00,956 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-04 23:05:00,957 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:05:00,958 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:12:52,649 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:12:52,652 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-04 23:12:52,654 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:12:52,654 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-04 23:12:52,656 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Bookstore
+2020-04-04 23:12:52,656 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Bookstore
+2020-04-04 23:12:52,663 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:13:06,024 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:13:06,034 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-04 23:13:06,037 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:13:06,038 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:13:06,040 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-04 23:13:06,040 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-04 23:13:06,044 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:13:14,800 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:13:14,801 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-04 23:13:14,802 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:13:14,804 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:13:21,226 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-04-04 23:13:43,000 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.8.9
+2020-04-04 23:13:43,005 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml:classmate:1.3.3
+2020-04-04 23:13:43,010 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.8.0
+2020-04-04 23:13:43,013 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-dbcp2:2.1.1
+2020-04-04 23:13:43,017 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-digester:commons-digester:2.0
+2020-04-04 23:13:43,020 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2020-04-04 23:13:43,024 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-pool2:2.4.2
+2020-04-04 23:13:43,029 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-validator:5.4.1.Final
+2020-04-04 23:13:43,035 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.9.1
+2020-04-04 23:13:43,038 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.9.1
+2020-04-04 23:13:43,044 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.9.1
+2020-04-04 23:13:43,048 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.3.1.Final
+2020-04-04 23:13:43,054 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jcl-over-slf4j:1.7.6
+2020-04-04 23:13:43,058 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:jstl:1.2
+2020-04-04 23:13:43,062 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:4.0.1
+2020-04-04 23:13:43,065 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.6
+2020-04-04 23:13:43,068 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.2.3.RELEASE
+2020-04-04 23:13:43,071 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:4.3.9.RELEASE
+2020-04-04 23:13:43,076 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.2.3.RELEASE
+2020-04-04 23:13:43,079 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.2.3.RELEASE
+2020-04-04 23:13:43,084 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.2.3.RELEASE
+2020-04-04 23:13:43,088 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.2.3.RELEASE
+2020-04-04 23:13:43,091 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for aopalliance:aopalliance:1.0
+2020-04-04 23:13:43,095 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.2.3.RELEASE
+2020-04-04 23:13:43,100 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:4.3.9.RELEASE
+2020-04-04 23:13:43,104 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:4.3.9.RELEASE
+2020-04-04 23:13:43,108 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.2.3.RELEASE
+2020-04-04 23:13:43,112 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.2.3.RELEASE
+2020-04-04 23:13:43,115 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-api:3.0.8
+2020-04-04 23:13:43,119 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core:1.2
+2020-04-04 23:13:43,123 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.qdox:qdox:1.10.1
+2020-04-04 23:13:43,127 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.velocity:velocity:1.6.3
+2020-04-04 23:13:43,131 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.1
+2020-04-04 23:13:43,134 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.4
+2020-04-04 23:13:43,144 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for oro:oro:2.0.8
+2020-04-04 23:13:43,148 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core-runtime:1.2
+2020-04-04 23:13:43,153 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-jsp:1.2
+2020-04-04 23:13:43,157 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-core:3.0.8
+2020-04-04 23:13:43,161 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-jsp:3.0.8
+2020-04-04 23:13:43,164 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-api:1.0.7
+2020-04-04 23:13:43,173 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-jsp:1.0.7
+2020-04-04 23:13:43,177 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-servlet:1.0.7
+2020-04-04 23:13:43,179 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-servlet:3.0.8
+2020-04-04 23:13:43,182 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-template:3.0.8
+2020-04-04 23:13:43,186 [Worker-76] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:2.0.1.Final
+2020-04-04 23:13:43,360 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:13:43,361 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-04 23:13:43,361 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:13:43,362 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:13:50,080 [Worker-77] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-04 23:13:50,385 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: assignment6:assignment6:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/pom.xml.
+2020-04-04 23:13:50,875 [Worker-77] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /assignment6/src
+2020-04-04 23:13:50,875 [Worker-77] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /assignment6/src overlaps with sources folder /assignment6/src
+2020-04-04 23:13:50,876 [Worker-77] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /assignment6/src/test/java because it overlaps with /assignment6/src
+2020-04-04 23:13:51,578 [Worker-77] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for assignment6
+2020-04-04 23:13:51,584 [Worker-77] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-04 23:13:52,033 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:13:52,036 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-04 23:13:52,043 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:13:52,044 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:13:52,044 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-04 23:13:52,044 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-04 23:13:52,047 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:14:07,864 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-04 23:14:17,871 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-04 23:14:17,871 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-04-04 23:16:41,126 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:16:41,128 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-04 23:16:41,129 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:16:41,129 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:23:49,863 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: assignment6:assignment6:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/pom.xml.
+2020-04-04 23:23:50,012 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /assignment6/src
+2020-04-04 23:23:50,013 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /assignment6/src/test/java because it overlaps with /assignment6/src
+2020-04-04 23:23:50,369 [Worker-88] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-04 23:23:50,744 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: assignment6:assignment6:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/pom.xml.
+2020-04-04 23:23:51,092 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:23:51,094 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-04 23:23:51,095 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:23:51,096 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:23:51,106 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /assignment6/src
+2020-04-04 23:23:51,108 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /assignment6/src/test/java because it overlaps with /assignment6/src
+2020-04-04 23:23:51,283 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for assignment6
+2020-04-04 23:23:51,294 [Worker-88] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-04-04 23:23:52,114 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:23:52,115 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-04 23:23:52,116 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:23:52,117 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:23:52,117 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-04 23:23:52,117 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-04 23:23:52,120 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:24:29,127 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: assignment6:assignment6:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/pom.xml.
+2020-04-04 23:24:29,829 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:24:29,830 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-04 23:24:29,831 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:24:29,832 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:24:29,832 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-04 23:24:29,833 [Worker-88] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-04 23:24:29,836 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:24:43,058 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.8.9
+2020-04-04 23:24:43,061 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml:classmate:1.3.3
+2020-04-04 23:24:43,065 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.8.0
+2020-04-04 23:24:43,068 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-dbcp2:2.1.1
+2020-04-04 23:24:43,074 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-digester:commons-digester:2.0
+2020-04-04 23:24:43,076 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2020-04-04 23:24:43,080 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-pool2:2.4.2
+2020-04-04 23:24:43,085 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-validator:5.4.1.Final
+2020-04-04 23:24:43,090 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.9.1
+2020-04-04 23:24:43,093 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.9.1
+2020-04-04 23:24:43,099 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.9.1
+2020-04-04 23:24:43,102 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.3.1.Final
+2020-04-04 23:24:43,105 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jcl-over-slf4j:1.7.6
+2020-04-04 23:24:43,108 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:jstl:1.2
+2020-04-04 23:24:43,112 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:4.0.1
+2020-04-04 23:24:43,115 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.6
+2020-04-04 23:24:43,118 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.2.3.RELEASE
+2020-04-04 23:24:43,121 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:4.3.9.RELEASE
+2020-04-04 23:24:43,124 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.2.3.RELEASE
+2020-04-04 23:24:43,127 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.2.3.RELEASE
+2020-04-04 23:24:43,129 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.2.3.RELEASE
+2020-04-04 23:24:43,132 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.2.3.RELEASE
+2020-04-04 23:24:43,136 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for aopalliance:aopalliance:1.0
+2020-04-04 23:24:43,139 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.2.3.RELEASE
+2020-04-04 23:24:43,142 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:4.3.9.RELEASE
+2020-04-04 23:24:43,145 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:4.3.9.RELEASE
+2020-04-04 23:24:43,147 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.2.3.RELEASE
+2020-04-04 23:24:43,151 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.2.3.RELEASE
+2020-04-04 23:24:43,154 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-api:3.0.8
+2020-04-04 23:24:43,158 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core:1.2
+2020-04-04 23:24:43,161 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.qdox:qdox:1.10.1
+2020-04-04 23:24:43,164 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.velocity:velocity:1.6.3
+2020-04-04 23:24:43,166 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.1
+2020-04-04 23:24:43,169 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.4
+2020-04-04 23:24:43,172 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for oro:oro:2.0.8
+2020-04-04 23:24:43,175 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core-runtime:1.2
+2020-04-04 23:24:43,178 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-jsp:1.2
+2020-04-04 23:24:43,188 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-core:3.0.8
+2020-04-04 23:24:43,192 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-jsp:3.0.8
+2020-04-04 23:24:43,195 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-api:1.0.7
+2020-04-04 23:24:43,202 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-jsp:1.0.7
+2020-04-04 23:24:43,206 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-servlet:1.0.7
+2020-04-04 23:24:43,210 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-servlet:3.0.8
+2020-04-04 23:24:43,214 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-template:3.0.8
+2020-04-04 23:24:43,217 [Worker-93] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:2.0.1.Final
+2020-04-04 23:24:43,375 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:24:43,375 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-04 23:24:43,376 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:24:43,377 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:24:49,945 [Worker-96] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-04 23:24:50,150 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: assignment6:assignment6:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/pom.xml.
+2020-04-04 23:24:50,423 [Worker-96] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /assignment6/src
+2020-04-04 23:24:50,423 [Worker-96] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /assignment6/src/test/java because it overlaps with /assignment6/src
+2020-04-04 23:24:50,783 [Worker-96] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for assignment6
+2020-04-04 23:24:50,789 [Worker-96] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-04-04 23:24:51,133 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:24:51,135 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-04 23:24:51,136 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:24:51,137 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:24:51,137 [Worker-98] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-04 23:24:51,138 [Worker-98] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-04 23:24:51,140 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:25:30,641 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:25:30,642 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-04 23:25:30,643 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:25:30,643 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:25:47,203 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-04 23:25:47,230 [Worker-99] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-04 23:25:47,231 [Worker-99] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-04-04 23:26:09,219 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:26:09,222 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-04 23:26:09,223 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:26:09,224 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:58:16,017 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:58:16,018 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-04 23:58:16,020 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:58:16,020 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-04 23:58:24,500 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:58:24,501 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-04 23:58:24,501 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-04 23:58:24,502 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 00:04:08,296 [Worker-107] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2020-04-05 00:04:17,362 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 00:04:17,363 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 00:04:17,363 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 00:04:17,364 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 00:04:52,320 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 00:04:52,321 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 00:04:52,322 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 00:04:52,323 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 00:05:46,419 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 00:05:46,419 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 00:05:46,420 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 00:05:46,421 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 00:09:25,957 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 00:09:25,957 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 00:09:25,958 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 00:09:25,959 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:04:11,514 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:04:11,515 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:04:11,516 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:04:11,516 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:18:20,556 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:18:20,557 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:18:20,558 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:18:20,558 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:23:09,615 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:23:09,624 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:23:09,625 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:23:09,625 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:25:29,092 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-05 01:25:29,132 [Worker-130] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-05 01:25:29,132 [Worker-130] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-04-05 01:26:47,058 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:26:47,059 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:26:47,060 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:26:47,060 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:28:13,957 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:28:13,960 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:28:13,961 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:28:13,961 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:43:22,347 [Worker-137] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: assignment6:assignment6:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/pom.xml.
+2020-04-05 01:43:22,952 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:43:22,953 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:43:22,954 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:43:22,955 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:43:22,955 [Worker-137] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-05 01:43:22,955 [Worker-137] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-05 01:43:22,958 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:43:24,447 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:43:24,448 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:43:24,449 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:43:24,450 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:43:30,709 [Worker-97] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-05 01:43:30,928 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: assignment6:assignment6:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/pom.xml.
+2020-04-05 01:43:31,375 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /assignment6/src
+2020-04-05 01:43:31,375 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /assignment6/src/test/java because it overlaps with /assignment6/src
+2020-04-05 01:43:33,007 [Worker-97] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for assignment6
+2020-04-05 01:43:33,024 [Worker-97] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-04-05 01:43:33,469 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:43:33,478 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:43:33,497 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:43:33,499 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:43:33,500 [Worker-136] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-05 01:43:33,500 [Worker-136] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-05 01:43:33,502 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:43:41,320 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.8.9
+2020-04-05 01:43:41,323 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml:classmate:1.3.3
+2020-04-05 01:43:41,326 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.8.0
+2020-04-05 01:43:41,329 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-dbcp2:2.1.1
+2020-04-05 01:43:41,331 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-digester:commons-digester:2.0
+2020-04-05 01:43:41,334 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2020-04-05 01:43:41,336 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-pool2:2.4.2
+2020-04-05 01:43:41,339 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-validator:5.4.1.Final
+2020-04-05 01:43:41,341 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.9.1
+2020-04-05 01:43:41,344 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.9.1
+2020-04-05 01:43:41,346 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.9.1
+2020-04-05 01:43:41,349 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.3.1.Final
+2020-04-05 01:43:41,351 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jcl-over-slf4j:1.7.6
+2020-04-05 01:43:41,354 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:jstl:1.2
+2020-04-05 01:43:41,357 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:4.0.1
+2020-04-05 01:43:41,359 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.6
+2020-04-05 01:43:41,362 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.2.3.RELEASE
+2020-04-05 01:43:41,365 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:4.3.9.RELEASE
+2020-04-05 01:43:41,367 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.2.3.RELEASE
+2020-04-05 01:43:41,370 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.2.3.RELEASE
+2020-04-05 01:43:41,372 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.2.3.RELEASE
+2020-04-05 01:43:41,375 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.2.3.RELEASE
+2020-04-05 01:43:41,377 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for aopalliance:aopalliance:1.0
+2020-04-05 01:43:41,380 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.2.3.RELEASE
+2020-04-05 01:43:41,382 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:4.3.9.RELEASE
+2020-04-05 01:43:41,385 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:4.3.9.RELEASE
+2020-04-05 01:43:41,387 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.2.3.RELEASE
+2020-04-05 01:43:41,390 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.2.3.RELEASE
+2020-04-05 01:43:41,392 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-api:3.0.8
+2020-04-05 01:43:41,395 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core:1.2
+2020-04-05 01:43:41,398 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.qdox:qdox:1.10.1
+2020-04-05 01:43:41,400 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.velocity:velocity:1.6.3
+2020-04-05 01:43:41,402 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.1
+2020-04-05 01:43:41,405 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.4
+2020-04-05 01:43:41,408 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for oro:oro:2.0.8
+2020-04-05 01:43:41,410 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core-runtime:1.2
+2020-04-05 01:43:41,413 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-jsp:1.2
+2020-04-05 01:43:41,416 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-core:3.0.8
+2020-04-05 01:43:41,419 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-jsp:3.0.8
+2020-04-05 01:43:41,421 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-api:1.0.7
+2020-04-05 01:43:41,424 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-jsp:1.0.7
+2020-04-05 01:43:41,426 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-servlet:1.0.7
+2020-04-05 01:43:41,428 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-servlet:3.0.8
+2020-04-05 01:43:41,431 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-template:3.0.8
+2020-04-05 01:43:41,434 [Worker-145] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:2.0.1.Final
+2020-04-05 01:43:41,625 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:43:41,625 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:43:41,626 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:43:41,627 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:43:46,611 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-05 01:43:46,643 [Worker-145] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-05 01:43:46,643 [Worker-145] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-04-05 01:50:32,462 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:50:32,463 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:50:32,464 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:50:32,464 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:50:43,378 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:50:43,378 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:50:43,379 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:50:43,379 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:52:46,208 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:52:46,209 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:52:46,210 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:52:46,210 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:52:56,436 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:52:56,436 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:52:56,445 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:52:56,445 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:54:57,989 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:54:57,997 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:54:57,998 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:54:57,998 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 01:57:27,609 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-05 01:57:27,630 [Worker-147] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-05 01:57:27,630 [Worker-147] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-04-05 01:58:40,972 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:58:40,973 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 01:58:40,974 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 01:58:40,975 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:01:27,981 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:01:27,981 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:01:27,982 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:01:27,983 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:02:44,371 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:02:44,372 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:02:44,373 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:02:44,373 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:07:26,534 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:07:26,535 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:07:26,536 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:07:26,541 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:07:37,522 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:07:37,523 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:07:37,524 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:07:37,524 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:07:41,025 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:07:41,026 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:07:41,029 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:07:41,030 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:07:52,505 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:07:52,506 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:07:52,507 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:07:52,507 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:08:19,543 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:08:19,544 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:08:19,545 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:08:19,545 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:08:38,019 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:08:38,020 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:08:38,020 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:08:38,021 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:08:40,661 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:08:40,662 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:08:40,663 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:08:40,669 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:08:49,786 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:08:49,787 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:08:49,788 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:08:49,788 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:09:03,178 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:09:03,178 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:09:03,179 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:09:03,180 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:09:09,100 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:09:09,100 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:09:09,106 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:09:09,107 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:09:30,239 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-05 02:09:30,268 [Worker-162] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-05 02:09:30,269 [Worker-162] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-04-05 02:12:25,698 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:12:25,700 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:12:25,702 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:12:25,702 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 02:12:34,474 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:12:34,474 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 02:12:34,475 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 02:12:34,476 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 16:07:07,901 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:07:07,907 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 16:07:07,908 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:07:07,908 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 16:11:12,502 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:11:12,506 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 16:11:12,507 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:11:12,508 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 16:11:12,508 [Worker-241] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-05 16:11:12,508 [Worker-241] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-05 16:11:12,905 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:48:18,153 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.8.9
+2020-04-05 16:48:18,160 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml:classmate:1.3.3
+2020-04-05 16:48:18,165 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.8.0
+2020-04-05 16:48:18,170 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-dbcp2:2.1.1
+2020-04-05 16:48:18,174 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-digester:commons-digester:2.0
+2020-04-05 16:48:18,179 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2020-04-05 16:48:18,184 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-pool2:2.4.2
+2020-04-05 16:48:18,194 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-validator:5.4.1.Final
+2020-04-05 16:48:18,199 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.9.1
+2020-04-05 16:48:18,205 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.9.1
+2020-04-05 16:48:18,210 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.9.1
+2020-04-05 16:48:18,215 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.3.1.Final
+2020-04-05 16:48:18,219 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jcl-over-slf4j:1.7.6
+2020-04-05 16:48:18,239 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:jstl:1.2
+2020-04-05 16:48:18,262 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:4.0.1
+2020-04-05 16:48:18,276 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.6
+2020-04-05 16:48:18,281 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.2.3.RELEASE
+2020-04-05 16:48:18,286 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:4.3.9.RELEASE
+2020-04-05 16:48:18,291 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.2.3.RELEASE
+2020-04-05 16:48:18,297 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.2.3.RELEASE
+2020-04-05 16:48:18,302 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.2.3.RELEASE
+2020-04-05 16:48:18,307 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.2.3.RELEASE
+2020-04-05 16:48:18,312 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for aopalliance:aopalliance:1.0
+2020-04-05 16:48:18,318 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.2.3.RELEASE
+2020-04-05 16:48:18,323 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:4.3.9.RELEASE
+2020-04-05 16:48:18,328 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:4.3.9.RELEASE
+2020-04-05 16:48:18,333 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.2.3.RELEASE
+2020-04-05 16:48:18,340 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.2.3.RELEASE
+2020-04-05 16:48:18,345 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-api:3.0.8
+2020-04-05 16:48:18,356 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core:1.2
+2020-04-05 16:48:18,369 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.qdox:qdox:1.10.1
+2020-04-05 16:48:18,380 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.velocity:velocity:1.6.3
+2020-04-05 16:48:18,388 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.1
+2020-04-05 16:48:18,393 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.4
+2020-04-05 16:48:18,399 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for oro:oro:2.0.8
+2020-04-05 16:48:18,404 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core-runtime:1.2
+2020-04-05 16:48:18,412 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-jsp:1.2
+2020-04-05 16:48:18,421 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-core:3.0.8
+2020-04-05 16:48:18,426 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-jsp:3.0.8
+2020-04-05 16:48:18,433 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-api:1.0.7
+2020-04-05 16:48:18,438 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-jsp:1.0.7
+2020-04-05 16:48:18,446 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-servlet:1.0.7
+2020-04-05 16:48:18,453 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-servlet:3.0.8
+2020-04-05 16:48:18,458 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-template:3.0.8
+2020-04-05 16:48:18,463 [Worker-256] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:2.0.1.Final
+2020-04-05 16:48:19,472 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:48:19,473 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 16:48:19,474 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:48:19,476 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 16:48:30,466 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-05 16:48:30,485 [Worker-255] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-05 16:48:30,485 [Worker-255] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-04-05 16:52:44,505 [Worker-262] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-05 16:52:44,906 [Worker-262] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: assignment6:assignment6:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/pom.xml.
+2020-04-05 16:52:45,369 [Worker-262] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /assignment6/src
+2020-04-05 16:52:45,369 [Worker-262] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /assignment6/src/test/java because it overlaps with /assignment6/src
+2020-04-05 16:52:46,776 [Worker-262] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for assignment6
+2020-04-05 16:52:46,781 [Worker-262] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-04-05 16:52:47,201 [Worker-264] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:52:47,205 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 16:52:47,206 [Worker-264] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:52:47,206 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 16:52:47,206 [Worker-264] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of assignment6
+2020-04-05 16:52:47,207 [Worker-264] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for assignment6
+2020-04-05 16:52:47,209 [Worker-264] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:52:53,937 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-05 16:52:53,955 [Worker-265] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341/assignment6
+2020-04-05 16:52:53,955 [Worker-265] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-04-05 16:53:12,325 [Worker-264] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:53:12,330 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/main/resources
+2020-04-05 16:53:12,389 [Worker-264] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 16:53:12,389 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341/assignment6/src/test/resources
+2020-04-05 17:39:52,652 [Worker-274] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-05 17:39:53,155 [Worker-274] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Bookstore:Bookstore:0.0.1-SNAPSHOT @ /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/pom.xml.
+2020-04-05 17:39:53,713 [Worker-274] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Bookstore/src
+2020-04-05 17:39:53,713 [Worker-274] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Bookstore/src/test/java because it overlaps with /Bookstore/src
+2020-04-05 17:39:54,172 [Worker-274] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Bookstore
+2020-04-05 17:39:54,186 [Worker-274] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-05 17:39:54,622 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 17:39:54,623 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 17:39:54,625 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 17:39:54,644 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 17:39:54,644 [Worker-275] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Bookstore
+2020-04-05 17:39:54,644 [Worker-275] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Bookstore
+2020-04-05 17:39:54,647 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 17:40:00,506 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.8.9
+2020-04-05 17:40:00,509 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml:classmate:1.3.3
+2020-04-05 17:40:00,512 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.8.0
+2020-04-05 17:40:00,515 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-dbcp2:2.1.1
+2020-04-05 17:40:00,519 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-digester:commons-digester:2.0
+2020-04-05 17:40:00,522 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2020-04-05 17:40:00,525 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-pool2:2.4.2
+2020-04-05 17:40:00,528 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-validator:5.4.1.Final
+2020-04-05 17:40:00,531 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.9.1
+2020-04-05 17:40:00,533 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.9.1
+2020-04-05 17:40:00,535 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.9.1
+2020-04-05 17:40:00,540 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.3.1.Final
+2020-04-05 17:40:00,543 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jcl-over-slf4j:1.7.6
+2020-04-05 17:40:00,545 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:jstl:1.2
+2020-04-05 17:40:00,549 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.microsoft.sqlserver:mssql-jdbc:8.2.0.jre8
+2020-04-05 17:40:00,553 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:4.0.1
+2020-04-05 17:40:00,555 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.6
+2020-04-05 17:40:00,557 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.2.3.RELEASE
+2020-04-05 17:40:00,560 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:4.3.9.RELEASE
+2020-04-05 17:40:00,564 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.2.3.RELEASE
+2020-04-05 17:40:00,566 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.2.3.RELEASE
+2020-04-05 17:40:00,569 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.2.3.RELEASE
+2020-04-05 17:40:00,571 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.2.3.RELEASE
+2020-04-05 17:40:00,575 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for aopalliance:aopalliance:1.0
+2020-04-05 17:40:00,577 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.2.3.RELEASE
+2020-04-05 17:40:00,580 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:4.3.9.RELEASE
+2020-04-05 17:40:00,582 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:4.3.9.RELEASE
+2020-04-05 17:40:00,584 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.2.3.RELEASE
+2020-04-05 17:40:00,586 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.2.3.RELEASE
+2020-04-05 17:40:00,589 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-api:3.0.8
+2020-04-05 17:40:00,591 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core:1.2
+2020-04-05 17:40:00,594 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.qdox:qdox:1.10.1
+2020-04-05 17:40:00,597 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.velocity:velocity:1.6.3
+2020-04-05 17:40:00,600 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.1
+2020-04-05 17:40:00,602 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.4
+2020-04-05 17:40:00,605 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for oro:oro:2.0.8
+2020-04-05 17:40:00,609 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core-runtime:1.2
+2020-04-05 17:40:00,611 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-jsp:1.2
+2020-04-05 17:40:00,613 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-core:3.0.8
+2020-04-05 17:40:00,616 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-jsp:3.0.8
+2020-04-05 17:40:00,620 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-api:1.0.7
+2020-04-05 17:40:00,622 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-jsp:1.0.7
+2020-04-05 17:40:00,625 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-servlet:1.0.7
+2020-04-05 17:40:00,627 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-servlet:3.0.8
+2020-04-05 17:40:00,631 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-template:3.0.8
+2020-04-05 17:40:00,633 [Worker-280] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:2.0.1.Final
+2020-04-05 17:40:00,784 [Worker-278] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 17:40:00,785 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 17:40:00,787 [Worker-278] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 17:40:00,787 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 17:40:05,082 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-04-05 17:40:05,129 [Worker-278] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore
+2020-04-05 17:40:05,129 [Worker-278] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2020-04-05 18:04:14,787 [Worker-286] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 18:04:14,791 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 18:04:14,792 [Worker-286] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 18:04:14,793 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 18:04:34,002 [Worker-291] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 18:04:34,012 [Worker-291] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 18:04:34,013 [Worker-291] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 18:04:34,013 [Worker-291] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 18:37:13,162 [Worker-298] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 18:37:13,179 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 18:37:13,180 [Worker-298] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 18:37:13,180 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 18:39:59,783 [Worker-304] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 18:39:59,786 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 18:39:59,787 [Worker-304] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 18:39:59,788 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 19:18:38,087 [Worker-317] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 19:18:38,095 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 19:18:38,096 [Worker-317] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 19:18:38,097 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 20:15:48,479 [Worker-330] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 20:15:48,481 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 20:15:48,482 [Worker-330] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 20:15:48,484 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:00:39,602 [Worker-339] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:00:39,608 [Worker-339] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:00:39,610 [Worker-339] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:00:39,610 [Worker-339] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:05:10,329 [Worker-340] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:05:10,347 [Worker-340] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:05:10,348 [Worker-340] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:05:10,348 [Worker-340] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:15:19,196 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:15:19,198 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:15:19,199 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:15:19,199 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:15:25,608 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:15:25,609 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:15:25,610 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:15:25,611 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:23:22,289 [Worker-348] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:23:22,298 [Worker-348] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:23:22,300 [Worker-348] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:23:22,300 [Worker-348] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:29:39,240 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:29:39,242 [Worker-354] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:29:39,244 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:29:39,244 [Worker-354] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:30:20,197 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:30:20,209 [Worker-354] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:30:20,210 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:30:20,210 [Worker-354] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:31:14,737 [Worker-350] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:31:14,740 [Worker-350] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:31:14,742 [Worker-350] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:31:14,742 [Worker-350] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:32:37,437 [Worker-355] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:32:37,438 [Worker-355] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:32:37,442 [Worker-355] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:32:37,456 [Worker-355] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:34:45,618 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:34:45,623 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:34:45,624 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:34:45,624 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:35:01,826 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:01,837 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:35:01,838 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:01,838 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:35:27,907 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:27,930 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:35:27,932 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:27,932 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:35:48,488 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:48,489 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:35:48,490 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:48,491 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:35:51,788 [Worker-359] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:51,789 [Worker-359] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:35:51,790 [Worker-359] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:51,790 [Worker-359] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:35:56,903 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:56,904 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:35:56,905 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:56,905 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:35:58,915 [Worker-360] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:58,916 [Worker-360] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:35:58,917 [Worker-360] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:35:58,918 [Worker-360] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:36:19,935 [Worker-358] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:36:19,938 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:36:19,941 [Worker-358] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:36:19,941 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:37:07,568 [Worker-360] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:37:07,574 [Worker-360] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:37:07,574 [Worker-360] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:37:07,575 [Worker-360] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:40:08,182 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:40:08,183 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:40:08,184 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:40:08,185 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:40:42,928 [Worker-358] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:40:42,929 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:40:42,930 [Worker-358] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:40:42,930 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:41:20,035 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:41:20,035 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:41:20,036 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:41:20,037 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:42:46,158 [Worker-361] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:42:46,159 [Worker-361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:42:46,160 [Worker-361] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:42:46,161 [Worker-361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:43:25,158 [Worker-362] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:43:25,160 [Worker-362] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:43:25,160 [Worker-362] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:43:25,165 [Worker-362] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:45:16,584 [Worker-362] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:45:16,586 [Worker-362] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:45:16,587 [Worker-362] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:45:16,587 [Worker-362] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:50:02,095 [Worker-367] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:50:02,097 [Worker-367] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:50:02,098 [Worker-367] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:50:02,098 [Worker-367] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:52:10,303 [Worker-367] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:52:10,304 [Worker-367] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:52:10,308 [Worker-367] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:52:10,309 [Worker-367] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:52:21,249 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:52:21,264 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:52:21,278 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:52:21,279 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:52:24,611 [Worker-371] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:52:24,612 [Worker-371] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:52:24,613 [Worker-371] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:52:24,613 [Worker-371] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:58:45,061 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:58:45,064 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:58:45,065 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:58:45,066 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:59:24,699 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:59:24,700 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:59:24,702 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:59:24,702 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 21:59:44,407 [Worker-374] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:59:44,408 [Worker-374] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 21:59:44,409 [Worker-374] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 21:59:44,409 [Worker-374] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:03:51,981 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:03:51,989 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:03:51,995 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:03:51,996 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:04:29,170 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:04:29,171 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:04:29,172 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:04:29,172 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:04:47,001 [Worker-375] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:04:47,005 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:04:47,006 [Worker-375] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:04:47,006 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:05:10,766 [Worker-367] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:05:10,767 [Worker-367] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:05:10,768 [Worker-367] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:05:10,768 [Worker-367] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:05:16,673 [Worker-375] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:05:16,695 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:05:16,696 [Worker-375] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:05:16,697 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:06:43,285 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:06:43,286 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:06:43,287 [Worker-369] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:06:43,288 [Worker-369] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:06:45,914 [Worker-375] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:06:45,915 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:06:45,915 [Worker-375] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:06:45,916 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:27:15,398 [Worker-376] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:27:15,403 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:27:15,404 [Worker-376] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:27:15,404 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:27:33,261 [Worker-381] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:27:33,284 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:27:33,290 [Worker-381] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:27:33,291 [Worker-381] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:28:40,919 [Worker-376] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:28:40,935 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:28:40,939 [Worker-376] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:28:40,940 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:31:01,840 [Worker-382] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:31:01,860 [Worker-382] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:31:01,860 [Worker-382] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:31:01,861 [Worker-382] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:38:39,794 [Worker-387] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:38:39,796 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:38:39,798 [Worker-387] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:38:39,804 [Worker-387] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:40:09,029 [Worker-383] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:40:09,030 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:40:09,031 [Worker-383] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:40:09,031 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:40:22,488 [Worker-389] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:40:22,490 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:40:22,491 [Worker-389] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:40:22,491 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:57:07,053 [Worker-394] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:57:07,056 [Worker-394] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:57:07,057 [Worker-394] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:57:07,057 [Worker-394] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 22:57:48,918 [Worker-398] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:57:48,930 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 22:57:48,931 [Worker-398] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 22:57:48,932 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:04:19,035 [Worker-398] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:04:19,041 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:04:19,042 [Worker-398] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:04:19,043 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:04:37,038 [Worker-398] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:04:37,039 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:04:37,040 [Worker-398] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:04:37,040 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:05:43,386 [Worker-398] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:05:43,391 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:05:43,394 [Worker-398] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:05:43,395 [Worker-398] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:06:06,019 [Worker-400] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:06:06,023 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:06:06,024 [Worker-400] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:06:06,024 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:13:36,558 [Worker-401] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:13:36,560 [Worker-401] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:13:36,561 [Worker-401] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:13:36,561 [Worker-401] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:16:00,808 [Worker-400] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:16:00,815 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:16:00,815 [Worker-400] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:16:00,816 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:17:15,744 [Worker-406] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:17:15,745 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:17:15,746 [Worker-406] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:17:15,747 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:18:13,966 [Worker-406] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:18:13,968 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:18:13,969 [Worker-406] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:18:13,969 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:18:25,009 [Worker-407] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:18:25,010 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:18:25,010 [Worker-407] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:18:25,011 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:19:31,120 [Worker-408] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:19:31,121 [Worker-408] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:19:31,122 [Worker-408] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:19:31,123 [Worker-408] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:19:37,433 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:19:37,433 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:19:37,434 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:19:37,434 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:20:05,625 [Worker-405] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:20:05,626 [Worker-405] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:20:05,627 [Worker-405] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:20:05,628 [Worker-405] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:20:39,671 [Worker-410] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:20:39,673 [Worker-410] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:20:39,673 [Worker-410] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:20:39,673 [Worker-410] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:21:04,549 [Worker-405] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:21:04,571 [Worker-405] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:21:04,573 [Worker-405] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:21:04,573 [Worker-405] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:21:22,718 [Worker-406] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:21:22,720 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:21:22,720 [Worker-406] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:21:22,721 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:21:38,975 [Worker-407] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:21:38,976 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:21:38,977 [Worker-407] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:21:38,977 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:21:49,491 [Worker-405] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:21:49,492 [Worker-405] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:21:49,493 [Worker-405] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:21:49,493 [Worker-405] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:22:32,461 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:22:32,464 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:22:32,465 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:22:32,466 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:23:28,380 [Worker-406] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:23:28,382 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:23:28,383 [Worker-406] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:23:28,383 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:24:27,341 [Worker-410] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:24:27,342 [Worker-410] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:24:27,343 [Worker-410] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:24:27,344 [Worker-410] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:24:51,688 [Worker-409] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:24:51,689 [Worker-409] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:24:51,690 [Worker-409] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:24:51,690 [Worker-409] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:29:42,384 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:29:42,403 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:29:42,404 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:29:42,405 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:32:06,726 [Worker-417] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:32:06,729 [Worker-417] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:32:06,731 [Worker-417] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:32:06,734 [Worker-417] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:33:52,843 [Worker-420] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:33:52,847 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:33:52,847 [Worker-420] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:33:52,848 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:34:37,393 [Worker-419] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:34:37,398 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:34:37,399 [Worker-419] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:34:37,399 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:41:50,042 [Worker-422] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:41:50,043 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:41:50,045 [Worker-422] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:41:50,046 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:42:32,643 [Worker-423] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:42:32,653 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:42:32,654 [Worker-423] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:42:32,654 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:42:53,368 [Worker-420] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:42:53,402 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:42:53,404 [Worker-420] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:42:53,404 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:45:14,178 [Worker-426] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:45:14,179 [Worker-426] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:45:14,179 [Worker-426] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:45:14,180 [Worker-426] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:47:11,761 [Worker-428] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:47:11,762 [Worker-428] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:47:11,763 [Worker-428] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:47:11,763 [Worker-428] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:47:50,578 [Worker-425] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:47:50,579 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:47:50,581 [Worker-425] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:47:50,581 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:48:26,256 [Worker-425] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:48:26,258 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:48:26,258 [Worker-425] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:48:26,259 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:49:07,085 [Worker-427] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:49:07,086 [Worker-427] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:49:07,087 [Worker-427] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:49:07,088 [Worker-427] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:52:27,514 [Worker-429] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:52:27,517 [Worker-429] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:52:27,518 [Worker-429] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:52:27,518 [Worker-429] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:52:50,128 [Worker-433] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:52:50,129 [Worker-433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:52:50,131 [Worker-433] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:52:50,132 [Worker-433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:52:59,887 [Worker-433] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:52:59,900 [Worker-433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:52:59,901 [Worker-433] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:52:59,902 [Worker-433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
+2020-04-05 23:53:21,574 [Worker-429] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:53:21,577 [Worker-429] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/main/resources
+2020-04-05 23:53:21,578 [Worker-429] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-05 23:53:21,578 [Worker-429] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/danielcender/Documents/GCU/2020/CST-341-O500-CLC/Bookstore/src/test/resources
