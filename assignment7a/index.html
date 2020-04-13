@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Basic Bootstrap Examples</title>
+    <!-- Bootstrap CSS file -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <!-- Use of Bootstrap NavBar -->
+    <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-dark">
+      <a class="navbar-brand text-light" href="#">Top Nav</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarNavAltMarkup"
+        aria-controls="navbarNavAltMarkup"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon text-light"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link active" href="#"
+            >Home <span class="sr-only">(current)</span></a
+          >
+          <a class="nav-item nav-link" href="#">Features</a>
+          <a class="nav-item nav-link" href="#">Register</a>
+          <a class="nav-item nav-link" href="#">Login</a>
+          <a class="nav-item nav-link" href="#">About</a>
+        </div>
+      </div>
+    </nav>
+    <div class="container">
+      <!-- Showing use of Rows and Columns throughout the page -->
+      <div class="row">
+        <div class="col-12">
+          <h1>Bootstrap Example Page</h1>
+        </div>
+      </div>
+
+      <hr />
+
+      <!-- Use of Table layout -->
+      <div class="row">
+        <div class="col-12">
+          <h4>Bootstrap Table Example</h4>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">First</th>
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1</th>
+                <td>Mark</td>
+                <td>Otto</td>
+                <td>@mdo</td>
+              </tr>
+              <tr>
+                <th scope="row">2</th>
+                <td>Jacob</td>
+                <td>Thornton</td>
+                <td>@fat</td>
+              </tr>
+              <tr>
+                <th scope="row">3</th>
+                <td>Larry</td>
+                <td>the Bird</td>
+                <td>@twitter</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <hr />
+
+      <!-- Use of Bootstrap Forms -->
+      <div class="row">
+        <div class="col-12">
+          <h4>Form Example</h4>
+        </div>
+      </div>
+      <form action="#">
+        <h5>Please Enter your personal information</h5>
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="exampleEmail">Email address</label>
+            <input
+              type="email"
+              class="form-control"
+              id="exampleEmail"
+              aria-describedby="emailHelp"
+              placeholder="Enter email"
+            />
+          </div>
+          <div class="form-group col-md-6">
+            <label for="examplePassword">Password</label>
+            <input
+              type="password"
+              class="form-control"
+              id="examplePassword"
+              aria-describedby="passwordHelp"
+              placeholder="Enter password"
+            />
+            <small id="passwordHelp" class="form-text text-muted"
+              >We'll keep this encrypted, only you should know this.</small
+            >
+          </div>
+          <div class="form-group col-md-6">
+            <label for="exampleUser">Username</label>
+            <input
+              type="text"
+              class="form-control"
+              id="exampleUser"
+              aria-describedby="passwordHelp"
+              placeholder="Enter Username"
+            />
+            <small id="passwordHelp" class="form-text text-muted"
+              >Keep in mind, other users will see this name.</small
+            >
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1" />
+            <label class="form-check-label" for="exampleCheck1"
+              >Would you like to receive my newsletter?</label
+            >
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group col-md-4">
+            <label for="inputAge">Age</label>
+            <select id="inputAge" class="form-control">
+              <option selected>Choose...</option>
+              <option>18-22</option>
+              <option>23-27</option>
+              <option>27-32</option>
+              <option>33-38</option>
+              <option>38 or older...</option>
+            </select>
+          </div>
+          <div class="form-group col-md-4">
+            <label for="inputGender">Age</label>
+            <select id="inputGender" class="form-control">
+              <option selected>Choose...</option>
+              <option>Male</option>
+              <option>Female</option>
+              <option>Other</option>
+              <option>Prefer not to anser...</option>
+            </select>
+          </div>
+          <div class="form-group col-md-4">
+            <label for="inputEd">Highest Education Level</label>
+            <select id="inputEd" class="form-control">
+              <option selected>Choose...</option>
+              <option>Some High School</option>
+              <option>High School Diploma or Equivalent (i.e. GED)</option>
+              <option>Some College</option>
+              <option>Associates (2 yrs) Degree</option>
+              <option>Bachelors (4 yrs) Degree</option>
+              <option>Masters (~6 yrs) Degree</option>
+              <option>PhD</option>
+              <option>Prefer not to anser...</option>
+            </select>
+          </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+
+      <hr />
+
+      <!-- Use of Bootstrap Image -->
+      <div class="row">
+        <div class="col-12">
+          <h4>Image Example</h4>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <img
+            src="https://source.unsplash.com/user/erondu/1600x900"
+            class="img-fluid"
+            alt="Responsive image"
+          />
+        </div>
+      </div>
+    </div>
+
+    <!-- JS files: jQuery first, then Popper.js, then Bootstrap JS -->
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN" "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+<tiles-definitions>
+	<definition name="addUser" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/addUser.jsp" />
+	</definition>
+	<definition name="displayUser" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/displayUser.jsp" />
+	</definition>
+	<definition name="displayUsers" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/displayUsers.jsp" />
+	</definition>
+	<definition name="testForm" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/TestForm.jsp" />
+	</definition>
+	<definition name="displayOrders" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/displayOrders.jsp" />
+    </definition>
+    <definition name="displayOrders2" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/displayOrders2.jsp" />
+    </definition>
+    <definition name="displayOrders3" extends="DefaultTemplate">
+    	<put-attribute name="body" value="/WEB-INF/pages/displayOrders3.jsp" />
+    </definition>
+</tiles-definitions>
