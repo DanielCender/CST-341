@@ -34,7 +34,7 @@
          <!--  <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="2"> -->
          <form:radiobutton class="form-check-input" path="gender" name="genderRadios" value="2" />
           <label class="form-check-label" for="gridRadios2">
-            Femail
+            Female
           </label>
         </div>
         <div class="form-check disabled">
